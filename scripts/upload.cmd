@@ -1,0 +1,1 @@
+runftp.cmd upload.ftp

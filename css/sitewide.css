@@ -1,0 +1,106 @@
+/*  http://csstxt.com/   */
+
+
+.left-panel {
+	float:left;
+ 	top:0;
+ 	left:0;
+ 	width:20%;
+}
+.right-panel {
+	float:left;
+	width:80%;
+	max-width:800px;
+}
+
+.sues-heading1-OLD {
+	font-family: fantasy;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bolder;
+	font-size: xx-large;
+	line-height: 100%;
+	word-spacing: normal;
+	letter-spacing: normal;
+	text-decoration: none;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0ex;
+}
+
+.sues-heading1 {
+	font-weight:normal;
+	color:#000000;
+	letter-spacing:1pt;
+	word-spacing:2pt;
+	font-size:30px;
+	text-align:center;
+	font-family:verdana, 
+	sans-serif;
+	line-height:1;
+}
+
+
+
+
+.sues-paragraph {
+	font-weight:normal;
+	color:#000000;
+	letter-spacing:1pt;
+	word-spacing:-1pt;
+	font-size:20px;
+	text-align:left;
+	font-family:verdana, 
+	sans-serif;
+	line-height:1;
+}
+
+.sues-picture-comment-OLD {
+	font-family: fantasy;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: normal;
+	line-height: 100%;
+	word-spacing: normal;
+	letter-spacing: normal;
+	text-decoration: none;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0ex;
+	padding:1cm 0cm 2cm 0cm;
+}
+
+.sues-picture-comment {
+	font-weight:normal;
+	color:#000000;
+	letter-spacing:1pt;
+	word-spacing:-1pt;
+	font-size:20px;
+	text-align:center;
+	font-family:verdana, 
+	sans-serif;
+	line-height:1;
+
+	padding:1cm 0cm 2cm 0cm;
+}
+
+
+.sues-pictures {
+	
+	text-align:center
+
+}
+
+a { display: block }
+
+
+body {
+	background-color: #A8A8A8  
+}
+
+.test {
+  background-image: url("http://s1147.photobucket.com/albums/o560/suesgall/?action=view&amp;current=IMG_1894.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}

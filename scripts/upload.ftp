@@ -1,0 +1,9 @@
+cd scripts
+mput *
+lcd ..
+cd ..
+mput *
+lcd css
+cd css
+mput *
+bye

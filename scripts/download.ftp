@@ -1,0 +1,9 @@
+cd scripts
+mget *
+lcd ..
+cd ..
+mget *
+lcd css
+cd css
+mget *
+bye
